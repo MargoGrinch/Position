@@ -82,12 +82,12 @@
 	box-sizing: border-box;
 }
 
-dl{
+.forth div{
   	margin: 0;
   	padding: 24px 0 0 0;
 }
 
-dt{
+.forth div{
   	background: #B8C1C8;
   	border-bottom: 1px solid #989EA4;
   	border-top: 1px solid #717D85;
