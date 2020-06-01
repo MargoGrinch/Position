@@ -80,6 +80,8 @@
 /*FORTH*/
 .forth{
 	box-sizing: border-box;
+	width: auto;
+	height: auto;
 }
 
 .forth div{
